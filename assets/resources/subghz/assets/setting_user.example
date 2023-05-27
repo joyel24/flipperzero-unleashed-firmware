@@ -27,3 +27,9 @@ Version: 1
 #Custom_preset_name: AM_2
 #Custom_preset_module: CC1101
 #Custom_preset_data: 02 0D 03 07 08 32 0B 06 14 00 13 00 12 30 11 32 10 17 18 18 19 18 1D 91 1C 00 1B 07 20 FB 22 11 21 B6 00 00 00 C0 00 00 00 00 00 00
+
+Custom_preset_name: 2FSK-3K
+Custom_preset_module: CC1101
+Custom_preset_data: 02 0D 03 00 08 32 0B 04 32 00 13 06 12 30 11 32 67 83 04 02 00 18 47 91 18 16 1B 07 00 91 22 11 FB 56 10 00 00 C0 00 00 00 00 00 00
+                                         07          0B             10 BDS	    14 devi     18    1A                20
+
